@@ -1,0 +1,224 @@
+C:\Users\ching\source\repos\Academia\Academia\bin\Academia.dll.config
+C:\Users\ching\source\repos\Academia\Academia\bin\Academia.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Academia.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csc.exe
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csc.exe.config
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csc.rsp
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csi.exe
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csi.exe.config
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\csi.rsp
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.AppContext.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Console.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.IO.Compression.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Net.Http.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.ValueTuple.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\vbc.exe
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\vbc.exe.config
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\vbc.rsp
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\VBCSCompiler.exe
+C:\Users\ching\source\repos\Academia\Academia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ching\source\repos\Academia\Academia\bin\Antlr3.Runtime.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\dotNetRDF.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\HtmlAgilityPack.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.Security.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Newtonsoft.Json.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\Owin.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Helpers.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Mvc.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Optimization.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Razor.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.Razor.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\VDS.Common.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\WebGrease.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\dotNetRDF.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\HtmlAgilityPack.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\HtmlAgilityPack.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.Owin.Security.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Newtonsoft.Json.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Helpers.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Mvc.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Optimization.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.Razor.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\System.Web.WebPages.Razor.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\VDS.Common.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\VDS.Common.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\Antlr3.Runtime.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ching\source\repos\Academia\Academia\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\Microsoft.Owin.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.Razor.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ching\source\repos\Academia\Academia\obj\Debug\Academia.csproj.AssemblyReference.cache
+C:\Users\ching\source\repos\Academia\Academia\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\ching\source\repos\Academia\Academia\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\ching\source\repos\Academia\Academia\obj\Debug\Academia.dll
+C:\Users\ching\source\repos\Academia\Academia\obj\Debug\Academia.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\ching\source\repos\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Academia.dll.config
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Academia.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Academia.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csc.exe
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csc.exe.config
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csc.rsp
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csi.exe
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csi.exe.config
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\csi.rsp
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.AppContext.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Console.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.IO.Compression.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Net.Http.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Net.Sockets.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.ValueTuple.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\vbc.exe
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\vbc.exe.config
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\vbc.rsp
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\VBCSCompiler.exe
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Antlr3.Runtime.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\dotNetRDF.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\HtmlAgilityPack.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.Security.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Newtonsoft.Json.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Owin.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Helpers.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Mvc.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Optimization.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Razor.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.Razor.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\VDS.Common.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\WebGrease.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\dotNetRDF.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\HtmlAgilityPack.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\HtmlAgilityPack.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.Owin.Security.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Newtonsoft.Json.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Helpers.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Mvc.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Optimization.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.Razor.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\System.Web.WebPages.Razor.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\VDS.Common.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\VDS.Common.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Antlr3.Runtime.pdb
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\Microsoft.AspNet.SignalR.Core.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\Microsoft.AspNet.SignalR.SystemWeb.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\Microsoft.Owin.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.Helpers.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.Mvc.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.Optimization.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.Razor.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.WebPages.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\obj\Debug\Academia.csproj.AssemblyReference.cache
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\obj\Debug\Academia.csproj.CoreCompileInputs.cache
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\obj\Debug\Academia.csproj.CopyComplete
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\obj\Debug\Academia.dll
+C:\Users\yerso\OneDrive\Escritorio\Proyecto final\Backup Proyecto Final Visual\Academia\Academia\obj\Debug\Academia.pdb

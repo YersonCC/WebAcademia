@@ -1,0 +1,55 @@
+﻿@model Academia.Models.Recurso
+
+@{
+    ViewBag.Title = "DetalleRecurso";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>DetalleRecurso</h2>
+
+<div>
+    <h4>Recurso</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreAu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreAu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nivel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nivel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Fecha_Publicacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Fecha_Publicacion)
+        </dd>
+    </dl>
+</div>
+

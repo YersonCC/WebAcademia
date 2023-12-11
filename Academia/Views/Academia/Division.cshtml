@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Academia.Models.Division>
+
+@{
+    ViewBag.Title = "Division";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="d-flex justify-content-between align-items-center">
+        <h2 class="text-center mx-auto">Divisiones</h2>
+        <form class="form-inline">
+            <div class="input-group">
+                <input type="text" class="form-control" placeholder="Buscar" name="searchTerm">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="submit">Buscar</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                    <td>
+                        <a href="@Url.Action("ListMa_Div", "Academia", new {Nombre = item.Nombre})" class="btn btn-primary">Abrir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+
